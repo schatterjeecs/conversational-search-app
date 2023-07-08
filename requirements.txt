@@ -1,0 +1,13 @@
+langchain
+PyPDF2
+python-dotenv
+streamlit
+openai
+faiss-cpu
+huggingface-hub
+tiktoken
+beautifulsoup4
+fastapi
+uvicorn
+fastapi-sessions
+python-multipart
